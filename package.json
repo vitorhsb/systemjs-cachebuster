@@ -1,6 +1,6 @@
 {
   "name": "systemjs-cachebuster",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "description": "Patches SystemJS loader with a cache buster query string",
   "main": "src/system.cachebuster.gulp.js",
   "dependencies": {
@@ -13,16 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oricalvo/systemjs-cachebuster.git"
+    "url": "git+https://github.com/vitorhsb/systemjs-cachebuster.git"
   },
   "keywords": [
     "SystemJS",
     "caching"
   ],
   "author": "Ori Calvo",
+  "editor": "Vitor Barbosa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oricalvo/systemjs-cachebuster/issues"
+    "url": "https://github.com/vitorhsb/systemjs-cachebuster/issues"
   },
-  "homepage": "https://github.com/oricalvo/systemjs-cachebuster#readme"
+  "homepage": "https://github.com/vitorhsb/systemjs-cachebuster#readme"
 }
